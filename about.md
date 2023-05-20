@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: IMPÉRIO
+ANIMAL  CONSULTÓRIO Pet Shop-Banho e Tosa
 permalink: /about/
 ---
 
